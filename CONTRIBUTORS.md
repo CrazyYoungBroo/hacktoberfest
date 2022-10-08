@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [CrazyYoungBroo](https://github.com/CrazyYoungBroo)
+- Place: Mumbai, India
+- Bio: Python Engineer
+- Github: [CrazyYoungBroo](https://github.com/CrazyYoungBroo)
